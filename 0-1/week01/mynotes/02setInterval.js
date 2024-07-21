@@ -16,3 +16,5 @@ const interval = setInterval(() => {
         clearInterval(interval);
     }
 }, 2000);
+
+//do not call the function, just use the name
